@@ -6,7 +6,7 @@
     NSInteger _arrowX;
 }
 
-// wat
+// w00t
 @property (nonatomic, assign) NSInteger arrowX;
 
 @end
